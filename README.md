@@ -37,7 +37,7 @@
 │ Физический уровень (PHY)│ OOK / GFSK / MSK / 4‑GFSK (радио) | RS-485
 └─────────────────────────┘
 
-Полная спецификация находится в [docs/specification.md](docs/specification.md).
+Полная спецификация находится в [specification.md](specification.md).
 
 ## Лицензия
 
